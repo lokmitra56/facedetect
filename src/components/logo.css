@@ -1,0 +1,7 @@
+.Tilt{
+    background: linear-gradient(97deg, rgb(0, 0, 0), rgb(160, 159, 159), rgb(0, 0, 0));
+}
+
+.shadow-2 {
+    box-shadow: 0px 0px 100px 30px rgb(0, 225, 255);
+}
